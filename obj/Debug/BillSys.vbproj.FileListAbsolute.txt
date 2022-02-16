@@ -1,0 +1,59 @@
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\BillSys.exe
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\BillSys.pdb
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\BillSys.xml
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Welcome.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Resources.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.vbproj.GenerateResource.Cache
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.exe
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.xml
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.pdb
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Bill.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.DBA.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Admin.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.DBA2.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.AddItems.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.MakeBill.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\items.accdb
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\BillSys.exe.config
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\ItemsList.mdb
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\BillSys.exe.config
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.exe
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.xml
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.pdb
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\items.accdb
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\ItemsList.mdb
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\BillSys.exe
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\BillSys.pdb
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\bin\Debug\BillSys.xml
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\ResolveAssemblyReference.cache
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.AddItems.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.Admin.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.Bill.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.DBA.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.DBA2.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.MakeBill.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.Welcome.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.Resources.resources
+D:\de-RA$'s d()($.[2]\course docs\comp docs\5th sem\projects\Projects\BillSys\BillSys\obj\Debug\BillSys.vbproj.GenerateResource.Cache
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Admin2.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.frmBecomeMember.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\Customers.mdb
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.frmCustomer.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.cus.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.frmLogin.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.frmCustomersList.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.ItemsList.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.TotalSales.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.vbproj.ResolveComReference.cache
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.AddToAccount.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.frmCustomersList2.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.SplashScreen1.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.Welcome2.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.MakeBill2.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.ShowStaffAttendance.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.ClsFunction.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.AboutBox1.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\BillSys.AboutItems.resources
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\bin\Debug\Interop.AeroSuite.dll
+C:\Users\deras\Documents\Visual Studio 2008\Projects\BillSys\BillSys\obj\Debug\Interop.AeroSuite.dll
